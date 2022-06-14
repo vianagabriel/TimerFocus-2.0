@@ -10,8 +10,8 @@
   <li>Botão de inicio</li>
   <li>Botão de pausar</li>
   <li>Cards que mudam de sons conformes clicados</li>
-  <li>Botão de aumentar 1 minutos</li>
-  <li>Botão de diminuir 1 minutos</li>
+  <li>Botão de aumentar 5 minutos</li>
+  <li>Botão de diminuir 5 minutos</li>
 </ul> <br>
 
 <p>Observação ( para parar a musica de um card é so dar dois clicks nele que a música para e se trocar de um card para o outro a música do card anterior para automaticamente).</p>
