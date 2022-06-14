@@ -110,8 +110,13 @@ button{
 }
 
 @media(max-width: 450px){
+
+ 
  main{
   margin: 0 auto;
   margin-top: 5rem;
+  margin-bottom: 10rem;
  }
+
+
 }
