@@ -66,7 +66,7 @@ export default function Timer({
   
     function increment(){
       
-      minutes = minutes < 25 ? Number(minutes) + 5 : (minutes = 25);
+      minutes = minutes < 25 ? Number(minutes) + 1 : (minutes = 25);
   
       updateDisplay(minutes,0);
     }
@@ -74,7 +74,7 @@ export default function Timer({
   
     function decrement(){
      
-      minutes = minutes > 5 ? Number(minutes) - 5 : (minutes = 0);
+      minutes = minutes > 5 ? Number(minutes) - 1 : (minutes = 0);
   
       updateDisplay(minutes, 0);
      
