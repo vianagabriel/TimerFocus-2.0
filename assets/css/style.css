@@ -113,10 +113,14 @@ button{
 
  
  main{
+  min-height: 100vh;
   margin: 0 auto;
   margin-top: 5rem;
   margin-bottom: 10rem;
+  
  }
+
+ 
 
 
 }
